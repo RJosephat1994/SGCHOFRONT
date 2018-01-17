@@ -1,0 +1,62 @@
+
+.tabla{
+position: absolute;
+left: 43%;
+top:23%;
+border-collapse: collapse;
+  width: 100%;
+text-align: center;
+}
+.tabla td{
+  border: 1px solid #ddd;
+  font-size: 13px;
+}
+.tabla th{
+width: 70px;
+  border: 1px solid #ddd;
+ padding: 2px;
+   font-size: 13px;
+}
+.tabla th{
+
+  padding-top: 4px;
+   padding-bottom: 4px;
+   text-align: left;
+   background-color: #4CAF50;
+   color: white;
+}
+.izq{
+  text-align: left;
+}
+.Rigth{
+  position: relative;
+  left: 40%;
+}
+.der{
+position: relative;
+left: 70%;
+color:red;
+}
+.center{
+  position: relative;
+  left: 23%;
+  text-align: center;
+width: 50%;
+}
+.center2{
+  position: relative;
+color: black;
+  text-align: center;
+width: 100%;
+}
+.esquina{
+
+  position: relative;
+  left: 0%;
+  text-align: center;
+
+}
+
+
+.tabla tr:nth-child(even){background-color: #f2f2f2;}
+.tbale tr:hover {background-color: #ddd;}

@@ -1,0 +1,51 @@
+
+table{
+text-align: center;
+
+
+}
+.tabla2{
+position: relative;
+left: 0%;
+top:35%;
+border-collapse: collapse;
+  width: 100%;
+text-align: center;
+}
+.tabla2 td{
+
+  left: 1%;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  text-align: center;
+  justify-content: center;
+  color:#000000;
+
+}
+.tabla2 th{
+width: 110px;
+  border: 1px solid #ddd;
+ padding: 1px;
+   font-size: 15px;
+   text-align: center;
+}
+.tabla2 th{
+
+  padding-top: 4px;
+   padding-bottom: 4px;
+   text-align: center;
+   background-color: #F44336;
+   color: white;
+}
+
+.relleno{
+color:"black";
+
+}
+.tabla2 tr:nth-child(even){background-color: white;}
+.tabla2 tr:hover {background-color: #F5F5F5;}
+.anchoTextbox{
+
+  width: 30%;
+}
+td{text-align: center;}

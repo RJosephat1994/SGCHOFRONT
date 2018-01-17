@@ -1,0 +1,20 @@
+.logo{
+position: absolute;
+top: 0%;
+height: 18%;
+
+
+}
+.titulo{
+  position: absolute;
+  text-align: center;
+  left: 60%;
+top:12%;
+
+  z-index: 3;
+}
+.sobre{
+position: absolute;
+  z-index:2;
+  top:17%;
+}
